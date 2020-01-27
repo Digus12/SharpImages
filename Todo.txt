@@ -1,0 +1,6 @@
+-Remake logo
+-add about page 
+-add more images
+-Blog?
+-Seperate pages and description of art peices. 
+-animations on header tags?
